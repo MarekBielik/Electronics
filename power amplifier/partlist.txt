@@ -1,0 +1,36 @@
+Partlist
+
+Exported from subwoofer_TDA2030Ax2.sch at 11. 8. 2013 14:22:31
+
+EAGLE Version 6.0.0 Copyright (c) 1988-2011 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device           Package  Library  Sheet
+
+C1       2,2uF          C-ELEKTROLYT_3,5 C-EL_3,5 #PaJa_30 1
+C2       100uF          C-ELEKTROLYT_3,5 C-EL_3,5 #PaJa_30 1
+C3       22uF           C-ELEKTROLYT_3,5 C-EL_3,5 #PaJa_30 1
+C4       22uF           C-ELEKTROLYT_3,5 C-EL_3,5 #PaJa_30 1
+C5       100uF          C-ELEKTROLYT_3,5 C-EL_3,5 #PaJa_30 1
+C6       100nF          C-KERAMIK_5      C-5      #PaJa_30 1
+C7       0,22uF         C-KERAMIK_5      C-5      #PaJa_30 1
+C8       100nF          C-KERAMIK_5      C-5      #PaJa_30 1
+C9       0,22uF         C-KERAMIK_5      C-5      #PaJa_30 1
+IO1      TDA2030        TDA2030          PENTAWAT #PaJa_30 1
+IO2      TDA2030        TDA2030          PENTAWAT #PaJa_30 1
+PAD1     PAD_1          PAD_1            PAD_1    #PaJa_30 1
+PAD2     PAD_1          PAD_1            PAD_1    #PaJa_30 1
+PAD3     PAD_1          PAD_1            PAD_1    #PaJa_30 1
+PAD4     PAD_1          PAD_1            PAD_1    #PaJa_30 1
+PAD5     PAD_1          PAD_1            PAD_1    #PaJa_30 1
+PAD6     PAD_1          PAD_1            PAD_1    #PaJa_30 1
+R1       22k            R_7,5            R-7,5    #PaJa_30 1
+R2       680R           R_7,5            R-7,5    #PaJa_30 1
+R3       22k            R_7,5            R-7,5    #PaJa_30 1
+R4       22k            R_7,5            R-7,5    #PaJa_30 1
+R5       680R           R_7,5            R-7,5    #PaJa_30 1
+R6       22k            R_7,5            R-7,5    #PaJa_30 1
+R7       1R             R_7,5            R-7,5    #PaJa_30 1
+R8       1R             R_7,5            R-7,5    #PaJa_30 1
+R9       22k            R_7,5            R-7,5    #PaJa_30 1
